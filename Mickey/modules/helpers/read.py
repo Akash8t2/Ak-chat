@@ -14,7 +14,7 @@ HELP_READ = f"""
 <u>**ᴀʀᴇ ɢɪᴠᴇɴ ʙᴇʟᴏᴡ!**</u>
 **ᴀʟʟ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ:/**
 **──────────────**
-<b>||©️ @Rudra0_9_1||</b>
+<b>||©️ @Alllllllllllllllllllllll||</b>
 """
 
 TOOLS_DATA_READ = f"""
@@ -25,7 +25,7 @@ TOOLS_DATA_READ = f"""
 **──────────────**
 **➻ ᴜsᴇ /id ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ᴜsᴇʀ ɪᴅ, ᴄʜᴀᴛ ɪᴅ ᴀɴᴅ ᴍᴇssᴀɢᴇ ɪᴅ ᴀʟʟ ɪɴ ᴀ sɪɴɢʟᴇ ᴍᴇssᴀɢᴇ.**
 **──────────────**
-<b>||©️ @Rudra0_9_1||</b>
+<b>||©️ @Alllllllllllllllllllllll||</b>
 """
 
 CHATBOT_READ = f"""
@@ -33,7 +33,7 @@ CHATBOT_READ = f"""
 **➻ ᴜsᴇ /chatbot ᴛᴏ ᴇɴᴀʙʟᴇ/ᴅɪsᴀʙʟᴇ ᴛʜᴇ ᴄʜᴀᴛʙᴏᴛ.**
 **๏ ɴᴏᴛᴇ ➻ ᴛʜᴇ ᴀʙᴏᴠᴇ ᴄᴏᴍᴍᴀɴᴅ ғᴏʀ ᴄʜᴀᴛʙᴏᴛ ᴡᴏʀᴋ ɪɴ ɢʀᴏᴜᴘ ᴏɴʟʏ!!**
 **───────────────**
-<b>||©️ @Rudra0_9_1||</b>
+<b>||©️ @Alllllllllllllllllllllll||</b>
 """
 
 SOURCE_READ = f"**ʜᴇʏ, ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏғ [{MickeyBot.name}](https://t.me/{MickeyBot.username}) ɪs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ.**\n**ᴘʟᴇᴀsᴇ ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ & ɢɪᴠᴇ ᴛʜᴇ sᴛᴀʀ ✯**\n**──────────────────**\n**ʜᴇʀᴇ ɪs ᴛʜᴇ [sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ](https://t.me/+f9ZegEtS4U4wNDdl)**\n**──────────────────**\n**ɪғ ʏᴏᴜ ғᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴀᴛ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/+f9ZegEtS4U4wNDdl).\n<b>||©️ @Alllllllllllllllllllllll||</b>"
